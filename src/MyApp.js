@@ -9,7 +9,7 @@ import colors from './colors';
 
 
 type Props = {};
-export default class App extends Component<Props> {
+export default class MyApp extends Component<Props> {
 
   render() {
     const store = createStore(reducers, {}, applyMiddleware(ReduxThunk));
