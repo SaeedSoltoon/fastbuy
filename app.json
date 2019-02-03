@@ -1,7 +1,6 @@
 {
   "expo": {
     "name": "fastbuy",
-    "displayName": "FastBuy",
     "slug": "fastbuy",
     "privacy": "public",
     "sdkVersion": "32.0.0",
@@ -25,6 +24,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
